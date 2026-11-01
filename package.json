@@ -1,0 +1,1 @@
+{"name":"searchable-creator-delivery-logs","private":true,"type":"module","scripts":{"test":"node --experimental-strip-types src/creator_delivery.test.ts","demo":"node --experimental-strip-types src/creator_delivery.ts"},"dependencies":{"zod":"^3.23.8"}}
